@@ -19,11 +19,3 @@ HTML
 
 CSS
 
-⚙️ How to Run Locally
-Follow these steps to get a copy of the project up and running on your local machine.
-
-Prerequisites
-You need to have Node.js and npm installed on your computer.
-
-📄 License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
