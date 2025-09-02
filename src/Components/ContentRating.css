@@ -13,7 +13,7 @@
     max-width: 100%;
     border: 1px solid #ccc;
     border-radius: 5px;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
   }
   
   .rating-buttons {
@@ -30,7 +30,7 @@
     border-radius: 5px;
     background-color: #3498db;
     color: #fff;
-    transition: background-color 0.3s;
+    transition: background-color 0.2s;
   }
   
   .like-button:hover,
@@ -39,6 +39,6 @@
   }
   
   #reactInfo{
-    max-width: 400px;
+    max-width: 401px;
     text-align: justify;
   }
